@@ -1,0 +1,15 @@
+{
+    "label_map": {
+        "W": "anger",
+        "L": "boredom",
+        "E": "disgust",
+        "A": "fear",
+        "F": "happiness",
+        "T": "sadness",
+        "N": "neutral"
+    },
+    "label_indices": {
+        "from": 5,
+        "to": 6
+    }
+}

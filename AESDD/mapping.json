@@ -1,0 +1,13 @@
+{
+    "label_map": {
+        "a": "anger",
+        "d": "disgust",
+        "f": "fear",
+        "h": "happiness",
+        "s": "sadness"
+    },
+    "label_indices": {
+        "from": 0,
+        "to": 1
+    }
+}
